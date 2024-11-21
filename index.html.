@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мої соціальні мережі</title>
+</head>
+<body>
+    <h1>Мої соціальні мережі</h1>
+
+    <h2>1. Компанії, за якими я спостерігаю:</h2>
+    <ul>
+        <li><a href="https://www.electrolux.pl/" target="_blank"">Компанія 1 </a></li>
+        <li><a href="https://banda.agency/" target=_blank">Компанія 2 </a></li>
+        <li><a href="https://glovoapp.com/" target="_blank">Компанія 3 </a></li>
+        <li><a href="https://www.google.ru/?hl=ru" target="_blank">Компанія 4 </a></li>
+        <li><a href="https://inpost.pl/en?act=read&cat=59" target="_blank">Компанія 5 </a></li>
+    </ul>
+
+       <h2>2. Експерти в моїй ніші:</h2>
+    <ul>
+        <li><a href="https://www.instagram.com/webdesign.uiux?igsh=ZmtvcmVkNWM2Nzlr" target="_blank">Експерт 1 </a></li>
+        <li><a href="https://www.instagram.com/ux.stories?igsh=cWM5MmptZ3V6YnQ0" target="_blank">Експерт 2 </a></li>
+        <li><a href="https://www.instagram.com/linas.design__?igsh=MWxidmdxMGtxbGp4dg==" target="_blank">Експерт 3</a></li>
+    </ul>
+</body>
+</html>
